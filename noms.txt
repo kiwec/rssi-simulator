@@ -20,7 +20,7 @@ de la toile profonde
 des adresses IP
 des adresses MAC
 des bitcoins
-des boléens
+des booléens
 des buffers
 des bugs
 des connecteurs
@@ -50,6 +50,7 @@ du CPU
 du dark web
 du deep learning
 du deep web
+du DHCP
 du disque dur
 du filtre
 du HDD
