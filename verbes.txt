@@ -48,6 +48,7 @@ Réticulation
 Réécriture
 Scripting
 Supervisation
+Suppression
 Surchargement
 Sécurisation
 Transpilation

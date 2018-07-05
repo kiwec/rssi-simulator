@@ -13,7 +13,7 @@ de la matrice
 de la multiprise
 de la passerelle
 de la RAM
-de la rasperry
+de la raspberry
 de la sandbox
 de la session
 de la toile profonde

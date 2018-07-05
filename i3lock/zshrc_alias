@@ -1,0 +1,1 @@
+alias lockit="python3 ~/.config/i3/rssi-simulator/i3lock/a.py; i3lock -t -i ~/.config/i3/rssi-simulator/i3lock/doge2.png"
