@@ -1,0 +1,1 @@
+alias lockit="python3 /home/lexsek/Downloads/a.py; i3lock -t -i ~/Downloads/doge2.png"
